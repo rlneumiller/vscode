@@ -42,7 +42,7 @@
 .monaco-editor-pane-placeholder .editor-placeholder-label-container {
 	font-size: 14px;
 	max-width: 450px;
-	text-align: center;
+	text-align: left;
 	word-break: break-word;
 	user-select: text;
 	-webkit-user-select: text;
